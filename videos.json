@@ -2,7 +2,7 @@
     {
         "id" : 0,
         "name" : "Bein Spor 1 HD",
-        "source" : " http://iptvworld.xyz:2095/live/hXZp0zPK/djDM7bPC/14260.m3u8 ",
+        "source" : " http://iptvworld.xyz:2095/live/hXZp0zPK/djDM7bPC/14260.m3u8",
         "duration" : "",
         "img" : "https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports1.png"
     },{
@@ -25,8 +25,8 @@
         "img" : "https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports4.png"
     },{
         "id" : 4,
-        "name" : "Panasonic test video HD",
+        "name" : "Trt Spor HD",
         "source" : "http://mirrors.standaloneinstaller.com/video-sample/Panasonic_HDC_TM_700_P_50i.mp4",
-        "duration" : "2:34",
+        "duration" : "",
         "img" : "https://lonelyplanetstatic.imgix.net/op-video-sync/images/production/p-5810396717001-brightcove-when-to-go-to-the-azores-20180726-050333.jpg?w=160&h=90&sharp=10&q=50"
     }]
