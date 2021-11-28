@@ -2,7 +2,7 @@
     {
         "id" : 0,
         "name" : "Bein Spor 1 HD",
-        "source" : " http://zyx01.oknirvana.club:8880/live/testzyx072/123456789/32886.m3u8 ",
+        "source" : " http://iptvworld.xyz:2095/live/hXZp0zPK/djDM7bPC/31592.m3u8 ",
         "duration" : "",
         "img" : "https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports1.png"
     },{
@@ -21,12 +21,54 @@
         "id": 3,
         "name" : "Bein Spor 4 HD",
         "source" : "http://thenewcode.com/assets/videos/downtown-los-angeles.mp4",
-        "duration" : "3:34",
+        "duration" : "",
         "img" : "https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports4.png"
     },{
         "id" : 4,
-        "name" : "Panasonic test video HD",
+        "name" : "Trt Spor HD",
         "source" : "http://mirrors.standaloneinstaller.com/video-sample/Panasonic_HDC_TM_700_P_50i.mp4",
-        "duration" : "2:34",
-        "img" : "https://lonelyplanetstatic.imgix.net/op-video-sync/images/production/p-5810396717001-brightcove-when-to-go-to-the-azores-20180726-050333.jpg?w=160&h=90&sharp=10&q=50"
+        "duration" : "",
+        "img" : "https://www.lyngsat-logo.com/logo/tv/tt/trt_spor_tr.png&h=90&sharp=10&q=50"
+    }]
+    },{
+        "id" : 5,
+        "name" : "A Spor HD",
+        "source" : "http://mirrors.standaloneinstaller.com/video-sample/Panasonic_HDC_TM_700_P_50i.mp4",
+        "duration" : "",
+        "img" : "https://www.lyngsat-logo.com/logo/tv/tt/trt_spor_tr.png&h=90&sharp=10&q=50"
+    }]
+    },{
+        "id" : 6,
+        "name" : "Trt Spor",
+        "source" : "http://mirrors.standaloneinstaller.com/video-sample/Panasonic_HDC_TM_700_P_50i.mp4",
+        "duration" : "",
+        "img" : "https://www.lyngsat-logo.com/logo/tv/tt/trt_spor_tr.png&h=90&sharp=10&q=50"
+    }]
+    },{
+        "id" : 7,
+        "name" : "Trt Spor",
+        "source" : "http://mirrors.standaloneinstaller.com/video-sample/Panasonic_HDC_TM_700_P_50i.mp4",
+        "duration" : "",
+        "img" : "https://www.lyngsat-logo.com/logo/tv/tt/trt_spor_tr.png&h=90&sharp=10&q=50"
+    }]
+    },{
+        "id" : 8,
+        "name" : "Trt Spor",
+        "source" : "http://mirrors.standaloneinstaller.com/video-sample/Panasonic_HDC_TM_700_P_50i.mp4",
+        "duration" : "",
+        "img" : "https://www.lyngsat-logo.com/logo/tv/tt/trt_spor_tr.png&h=90&sharp=10&q=50"
+    }]
+    },{
+        "id" : 9,
+        "name" : "Trt Spor",
+        "source" : "http://mirrors.standaloneinstaller.com/video-sample/Panasonic_HDC_TM_700_P_50i.mp4",
+        "duration" : "",
+        "img" : "https://www.lyngsat-logo.com/logo/tv/tt/trt_spor_tr.png&h=90&sharp=10&q=50"
+    }]
+    },{
+        "id" : 10,
+        "name" : "Trt Spor",
+        "source" : "http://mirrors.standaloneinstaller.com/video-sample/Panasonic_HDC_TM_700_P_50i.mp4",
+        "duration" : "",
+        "img" : "https://www.lyngsat-logo.com/logo/tv/tt/trt_spor_tr.png&h=90&sharp=10&q=50"
     }]
